@@ -4,9 +4,10 @@
 2021.02.22-2021.05.23
 
 # Participants
-Sungkyunkwan University Computer Education
+Sungkyunkwan University
+- Computer Education
 
-- Kim Dongho
-- Kim Gayeon
-- Lee Seeun
-- Lee Hoeyoung
+ - Kim Dongho
+ - Kim Gayeon
+ - Lee Seeun
+ - Lee Hoeyoung

@@ -1,4 +1,4 @@
-# MooYaHo
+# Eco-Fridge
 2021 - 1 Data Structure Team Project
 
 # Participants

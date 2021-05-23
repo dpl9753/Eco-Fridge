@@ -1,7 +1,7 @@
 # MooYaHo
 2021 - 1 Data Structure Team Project
 
-#Participants
+# Participants
 Sungkyunkwan University Computer Education
 Kim Dongho
 Kim Gayeon

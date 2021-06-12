@@ -4,10 +4,11 @@
 Period: 2021.02.22 - 2021.05.23
 
 # Participants
-Sungkyunkwan University
+Sungkyunkwan University 
 
-Computer Education
-- Kim Dongho
-- Kim Gayeon
-- Lee Seeun
-- Lee Hoeyoung
+Department of Computer Education
+
+- KIM DONG HO
+- KIM GA YEON
+- LEE SE EUN
+- LEE HOE YOUNG
